@@ -101,7 +101,7 @@ const Dj = () => {
     </div>
     <div className="row text-center text-white pt-5 jk mt-5">
       <h3>F E A T U R E D &nbsp; P O S C A S T S</h3><br></br><br></br>
-      <p style={{color:'rgba(255, 255, 255, 0.5)'}}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet,<br></br> fugit nam obcaecati fuga itaque deserunt officia, error reiciendis ab<br></br> quod?</p>
+      <p style={{color:'rgba(255, 255, 255, 0.5)'}}>Lorem idhutepsum dolor sit amet, consectetur adipisicing elit. Eveniet,<br></br> fugit nam obcaecati fuga itaque deserunt officia, error reiciendis ab<br></br> quod?</p>
     </div>
     <div className="container">
       <div className="row jk">

@@ -1,0 +1,34 @@
+.ss{
+  color: red;
+}
+
+.bgg{
+  background-image: url('https://preview.colorlib.com/theme/deejee/images/hero_bg_1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+  /* padding: 200px; */
+}
+.bk{
+  background-color: #222831;;
+}
+.jk{
+  font-family: 'Oswald', sans-serif;
+}
+.pp{
+  background-color: #13171d !important;
+}
+.gh{
+  background-color: #e3207b;
+}
+
+input::placeholder{
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+.ty:hover{
+  color: white !important;
+}
+
+svg:hover{
+  fill: white !important;
+}
